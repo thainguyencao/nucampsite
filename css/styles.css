@@ -44,6 +44,10 @@ footer {
     border-top: none;
     padding: 10px;
 }
+.card-body {
+    color: royalblue;
+    padding: 10px;
+}
 
 
 
