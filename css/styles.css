@@ -55,24 +55,8 @@ footer {
 .carousel {
     border: solid #5637DD;
 }
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;}
 
-
-
-#grad {
-    background-image: linear-gradient(to right, red , yellow);
-  }
-  #nucamp {
-    color: white;
-    font-family: Sofia;
-}
-#our_mission {
-    color: red;
-    font-family: Sofia;
-}
-#community_partners {
-    color: green;
-    font-family: Sofia;
-}
-#abetterway {
-    color: rgb(182, 177, 177);
-}
